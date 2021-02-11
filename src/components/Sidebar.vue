@@ -18,13 +18,6 @@
 				</router-link>
 			</li>
 		</ul>
-		<!-- <router-link to="/">Dashboard</router-link>
-		<router-link to="/">Home</router-link>
-		<router-link to="/">Home</router-link>
-		<router-link to="/">Home</router-link>
-		<router-link to="/">Home</router-link>
-		<router-link to="/">Home</router-link>
-		<router-link to="/track-and-trace">About</router-link> -->
 	</div>
 </template>
 

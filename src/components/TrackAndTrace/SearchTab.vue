@@ -3,20 +3,20 @@
 		<div class="d-flex justify-content-between align-items-center my-2">
 			<div class="d-flex justify-content-between">
 				<div class="form-check mr-4">
-					<input type="checkbox" class="form-check-input" id="exampleCheck1" />
-					<label class="form-check-label" for="exampleCheck1">Inventory</label>
+					<input type="checkbox" class="form-check-input" id="inventory" />
+					<label class="form-check-label" for="inventory">Inventory</label>
 				</div>
 				<div class="form-check mr-4">
-					<input type="checkbox" class="form-check-input" id="exampleCheck1" />
-					<label class="form-check-label" for="exampleCheck1">Missing</label>
+					<input type="checkbox" class="form-check-input" id="missing" />
+					<label class="form-check-label" for="missing">Missing</label>
 				</div>
 				<div class="form-check mr-4">
-					<input type="checkbox" class="form-check-input" id="exampleCheck1" />
-					<label class="form-check-label" for="exampleCheck1">Unassigned</label>
+					<input type="checkbox" class="form-check-input" id="unassigned" />
+					<label class="form-check-label" for="unassigned">Unassigned</label>
 				</div>
 				<div class="form-check mr-4">
-					<input type="checkbox" class="form-check-input" id="exampleCheck1" />
-					<label class="form-check-label" for="exampleCheck1">Deleted</label>
+					<input type="checkbox" class="form-check-input" id="deleted" />
+					<label class="form-check-label" for="deleted">Deleted</label>
 				</div>
 			</div>
 			<button
@@ -64,9 +64,9 @@
 							<input
 								type="checkbox"
 								class="form-check-input"
-								id="exampleCheck1"
+								id="includeAttribute"
 							/>
-							<label class="form-check-label" for="exampleCheck1"
+							<label class="form-check-label" for="includeAttribute"
 								>Include attribute</label
 							>
 						</div>
